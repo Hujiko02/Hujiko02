@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Hu Ji</h1>
-<h3 align="center">I'm an undergraduate at HNU, majoring in Electronic Science and Technology.</h3>
+<h3 align="center">I'm an undergraduate at Hainan University, majoring in Electronic Science and Technology.</h3>
 
-- Email： **ji_hu@foxmail.com**
+- Email：**ji_hu@foxmail.com**
 
 
 <!--
