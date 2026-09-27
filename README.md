@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi I'm HuJi
+- I'm an undergraduate at HNU, majoring in Electronic Science and Technology.
 
 <!--
 **Hujiko02/Hujiko02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
