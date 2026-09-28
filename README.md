@@ -2,7 +2,7 @@
 <h3 align="center">I'm an undergraduate at Hainan University, majoring in Electronic Science and Technology.</h3>
 
 - Email：**ji_hu@foxmail.com**
-
+- Website: **hujiko02.github.io**
 
 <!--
 **Hujiko02/Hujiko02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
